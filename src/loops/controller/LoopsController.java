@@ -12,5 +12,15 @@ public class LoopsController
 			
 			boolvar = true;
 		}
+	
+		boolean endless = true;
+		
+		while (endless == true)
+		{
+			System.out.println("Welcome to endless suffering.");
+			
+			boolvar = false;
+		}
+	
 	}
 }
