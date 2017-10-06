@@ -22,5 +22,10 @@ public class LoopsController
 			boolvar = false;
 		}
 	
+		for (int counting = 0; counting < 10; counting++)
+		{
+			System.out.println("");
+		}
+		
 	}
 }
